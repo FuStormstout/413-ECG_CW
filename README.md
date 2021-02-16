@@ -1,2 +1,6 @@
 # 413-ECG_CW
-413CW_1 Fu_Yihao
+
+Fu Yihao's 413 CW
+
+There are three parts including MLP, CNN and LSTM
+
