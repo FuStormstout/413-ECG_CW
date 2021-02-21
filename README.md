@@ -7,6 +7,6 @@ There are three parts including MLP, CNN and LSTM
 
 process:
   1 pre-processing
-  2 moel construction
+  2 model construction
   3 training
   4 draw convergence figures
